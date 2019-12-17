@@ -1,0 +1,1 @@
+web: java -jar target/Heroku_app-1.0-SNAPSHOT.jar
