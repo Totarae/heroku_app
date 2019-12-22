@@ -1,1 +1,1 @@
-web: java -jar target/Heroku_app-1.0-SNAPSHOT.jar
+web: java -jar target/Heroku_app-1.0-SNAPSHOT-jar-with-dependencies.jar
